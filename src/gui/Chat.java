@@ -19,7 +19,7 @@ public class Chat extends JFrame {
     private InetAddress serverAddress;
     private int serverPort = 12345;
 
-    public Chat(String nickname) {
+    public Chat(String nickname) {//asdasdasdasdasdas
         Chat.nickname = nickname;
         nicknameLabel.setText(nickname);
 
