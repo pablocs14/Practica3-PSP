@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
 
-public class Chat extends JFrame {
+public class Chat extends JFrame {//aa
     public JLabel nicknameLabel;
     private JButton sendButton;
     public JTextArea chatBox;
