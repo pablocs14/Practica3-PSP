@@ -8,7 +8,7 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
-public class Chat extends JFrame {
+public class Chat extends JFrame {//aaaa
     public JLabel nicknameLabel;
     private JButton sendButton;
     public JTextArea chatBox;
